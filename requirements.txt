@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+requests
+pdfplumber
+sentence-transformers
+chromadb
+langchain
+pydantic
+python-dotenv
+langchain-hugingface
+langchain-chroma
